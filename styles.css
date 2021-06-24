@@ -1,0 +1,233 @@
+#nav a#select {
+	width:120px;
+	font:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	vertical-align:top;
+	color:#993333;
+	text-decoration:none;
+	border-top:1px solid #999999;
+	border-bottom:1px solid #999999;
+	cursor:hand;
+	display:block;
+	padding-top:4px;
+	padding-bottom:4px;
+}
+
+body {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	margin:0px;
+	padding:0px;
+	background-color:#ffffff;
+}
+
+.gray {background-color:#eee;}
+
+.pageTable {
+	border-top:6px solid #999999;
+	border-bottom:3px solid #993333;
+	}
+
+.mid {
+	width:800px;
+	border-top:1px solid #993333;
+	}
+
+/* solid bars of color */
+
+#topbar {
+
+	height: 6px;
+	background-color:#999999;
+	vertical-align:top;
+}
+
+#middlebar{
+
+	height: 3px;
+	background-color:#993333;
+	vertical-align:top;
+}
+
+#footerbar {
+	
+	height: 5px;
+	background-color:#993333;
+}
+
+#bannerline {
+	height: 1px;
+	width:630px;
+	background-color:#999999;
+
+}
+
+/* navigation */
+
+#nav {
+	font-family:Arial, Helvetica, sans-serif;
+	width:120px;
+	text-indent:-20px;
+	display:block;
+	padding:16px 0px 0px 0px;
+	font-size:12px;
+	text-decoration:none;
+	font-weight:bold;
+	color:#333333;
+	vertical-align: top;
+}
+
+#nav a:link, #nav a:visited {
+	width:120px;
+	color:#333333;
+	cursor:hand;
+	text-decoration:none;
+	font-weight:normal;
+	padding-left:40px;
+	padding-top:5px;
+	padding-bottom:5px;
+	display:block;
+}
+
+/* left nav hover, active, and on states */
+#nav a:hover, #nav a:active {
+	width:120px;
+	font:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	vertical-align:top;
+	color:#993333;
+	text-decoration:none;
+	border-top:1px solid #999999;
+	border-bottom:1px solid #999999;
+	cursor:hand;
+	display:block;
+	padding-top:4px;
+	padding-bottom:4px;
+}
+
+
+/* main content */
+
+#maincontent {
+	font:Verdana, Arial, Helvetica, sans-serif;
+	vertical-align:top;
+	width:630px;
+	font-size:12px;
+	font-weight:normal;
+	color:#000000;
+	}
+
+#pagebanner {
+	font:Verdana, Arial, Helvetica, sans-serif;
+	height:54px;
+	width:630px;
+	vertical-align:top;
+	}
+
+
+#pagesubtitle {
+	font:Verdana, Arial, Helvetica, sans-serif;
+	padding:0px,0px,0px,0px;
+	Height:54px;
+	width:630px;
+	vertical-align:top;
+	
+}
+
+#pagesubtitle .nophoto {
+	font:Verdana, Arial, Helvetica, sans-serif;
+	display:block;
+	height: 1px;
+	width:630px;
+	background-color:#999999;
+}
+
+
+#pagecontent {
+	font:Verdana, Arial, Helvetica, sans-serif;
+	width:500px;
+	padding:0px,0px,0px,0px;
+	vertical-align:top;
+	line-height:16px;
+	font-size:12px;
+}
+
+#pagecontent .subtitle {
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	}
+
+#pagecontent a:link, #photos a:link, #fullpagecontent a:link  {
+	font:Verdana, Arial, Helvetica, sans-serif;
+	color:#993333;
+	text-decoration:none;
+	}
+
+#pagecontent a:hover, #pagecontent a:active, #fullpagecontent a:hover, #fullpagecontent a:active, #photos a:hover, #photos a:active{
+	font:Verdana, Arial, Helvetica, sans-serif;
+	color:#993333;
+	text-decoration:underline;
+}
+#pagecontent a:visited, #fullpagecontent a:visited, #photos a:visited {
+		font:Verdana, Arial, Helvetica, sans-serif;
+		color:#993333;
+	}
+	
+/* full page content */
+
+#fullpagecontent {
+		font:Verdana, Arial, Helvetica, sans-serif;
+		width:630px;
+	padding:0px,0px,0px,0px;
+	vertical-align:top;
+	line-height:16px;
+	font-size:12px;
+}
+
+#fullpagecontent .subtitle {
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	}
+	
+	/* end full page content */	
+
+#rightcolumn {
+	width:170px;
+	display:block;
+	vertical-align:top;
+	padding-left:30px;
+	font:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	line-height:14px;
+}
+
+#rightcolumn .enlarge {
+	font:Verdana, Arial, Helvetica, sans-serif;
+	display:block;
+	color:#993333;
+	}
+
+#rightcolumn .photocredit {
+	font:Verdana, Arial, Helvetica, sans-serif;
+	display:block;
+	color:#666666;
+	}
+
+/* Image Gallery */
+#galleryLink a, a:link, a:visited	{
+	color: #993333;
+	text-decoration: none;
+	cursor: hand;
+	cursor: pointer;
+}
+
+#galleryLink a:hover, a:active	{
+	color: #993333;
+	text-decoration: underline;
+	cursor: hand;
+	cursor: pointer;
+}
+
+.lettersSubsection {
+	font-weight:bold; 
+	color:#993333;
+	}
