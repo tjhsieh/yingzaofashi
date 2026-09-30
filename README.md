@@ -7,5 +7,3 @@ _Authors:_ Hsieh
 These models can be displayted and downloaded.
 
 [https://tjhsieh.github.io/yingzaofashi/](https://tjhsieh.github.io/yingzaofashi/)
-
-## Project Page
